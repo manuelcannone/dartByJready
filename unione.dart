@@ -15,7 +15,9 @@ for(var i in a) {
       }
   }
 }
+
 print(c);
+
 // || (or)
 c = [];
 for (var i = 0; i < a.length; i++) {
